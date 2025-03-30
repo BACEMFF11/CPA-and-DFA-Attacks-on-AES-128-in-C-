@@ -1,4 +1,4 @@
-# AES-128 Algorithm and Cryptanalysis
+# AES-128 Algorithm and Cryptanalysis attacks
 
 ## Overview
 This repository provides an implementation of the AES-128 encryption algorithm, along with two cryptanalysis techniques:
