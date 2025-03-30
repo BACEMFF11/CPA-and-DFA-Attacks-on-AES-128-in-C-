@@ -30,7 +30,7 @@ These attacks were conducted as part of an academic project on an ATxmega128D4 m
     ├── reverse_key_schedule.py         # Script to compute the master key
     ├── entropy_figures/                # Entropy analysis plots
     └── ciphered-faulty-npy/            # Correct and faulty ciphertexts (NumPy format)
-
+```
 
 ## AES-128 Implementation
 The AES Code C/ folder contains a full AES-128 encryption implementation in C, including the following core functions:
